@@ -1,0 +1,8 @@
+# Folder to ignore
+00_Experiments_685nm/
+.datafiles/
+figs__Determ_params_NormalSwim/
+figs__Determ_params_UV/
+figs__Kinematics_UV/
+figs__Trajectory_for_Particle=2/
+présentation.pptx
