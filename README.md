@@ -1,6 +1,6 @@
 # Photokinetic Particle Tracking
 
-This repository contains tools for tracking, analysing, and visualizing particles in video recordings, with a focus on photokinetic response experiments.
+This repository contains tools for tracking, analysing, and visualizing particles in video recordings, with a focus on photokinetic response experiments. Developed during a Prácticas Externas (curricular internship) at the [IMEDEA](https://imedea.uib-csic.es/en/) (Mediterranean Institute for Advanced Studies), affiliated with the Universitat de les Illes Balears and the CSIC. The work was carried out under the supervision of Marco Polin, focusing on research topics at the intersection of physics and biology.
 
 ## Overview
 
